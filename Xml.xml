@@ -1,0 +1,29 @@
+<!-- xml chapter , Question 1-->
+
+<class>
+    <time>
+        <hour> 12 </hour>
+        <minuets> 30 </ minuets>
+        <seconds> 0 </seconds>
+    </time>
+    <student ID="0001" >
+        <name>Jessica</name>       <email>jessica@blue.weeg.uiowa.edu</email>
+    </student>
+    <student ID="0002" >
+        <name>Peter</name>
+        <email>peter@icaen.uiowa.edu</email>
+    </student>
+    <student ID="0003" >
+        <name>Marwa</name>
+        <email>jaradamarwa@gmail.com</email>
+    </student>
+    <student ID="0004" >
+        <name>Nisreen</name>
+        <email>nisreen@hotmail.com</email>
+    </student>
+    <instructor>
+        <name>marwa nsr jarada</name>
+        <room>I201</room>
+        <rank>8000$ ^^"</rank>
+    </instructor>
+</class>

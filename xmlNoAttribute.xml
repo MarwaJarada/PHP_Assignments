@@ -1,0 +1,22 @@
+<!-- xml chapter , Question 2-->
+
+
+<class>
+    <semester>20152</semester>
+    <time>
+        <hour> 14 </hour>
+        <minuets> 30 </ minuets>
+        <seconds> 0 </seconds>
+    </time>
+    <student>
+        <id>0001</id>
+        <name>Jessica</name>
+        <email>jessica@blue.weeg.uiowa.edu</email>
+    </student>
+    <student>
+        <id>0002</id>
+        <name>Peter</name>
+        <email>peter@icaen.uiowa.edu</email>
+    </student>
+</class>
+
